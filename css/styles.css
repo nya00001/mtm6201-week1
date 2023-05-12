@@ -22,3 +22,17 @@ img {
     margin-bottom: 10px;
     margin-right: 10px;
 }
+
+dl {
+    clear: left;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.15rem;
+    background-color: darkgreen;
+  }
+
+dd {
+    margin-left: 0;
+}
